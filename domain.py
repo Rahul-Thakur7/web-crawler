@@ -13,5 +13,3 @@ def get_sub_domain_name(url):
 	except:
 		return ''
 
-
-#print(get_domain_name('https://www.youtube.com/watch?v=PPonGS2RZNc&index=14&list=PL6gx4Cwl9DGA8Vys-f48mAH9OKSUyav0q'))
